@@ -26,5 +26,5 @@ MVP变换矩阵，UnityShader中的属性定义以及与Cg语言的交互过程�
 6.顶点动画
 7.卡通着色
 
-三、Unity的着色器，CGSubShader
+三、Unity的着色器，(CGSubShade目录下）
   通过SubShader简练的语言实现基本的光照模型的着色。
