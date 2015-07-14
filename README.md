@@ -25,5 +25,5 @@
 6.顶点动画  
 7.卡通着色  
 
-三、Unity的着色器，(CGSubShade目录下）  
+**三、Unity的着色器，(CGSubShade目录下）**    
   通过SubShader简练的语言实现基本的光照模型的着色。
